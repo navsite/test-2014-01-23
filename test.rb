@@ -1,3 +1,4 @@
-print"test"
 m = "%s %.1f" % [Time.now.strftime("%H:%m"), 3.19]
-puts m
+n = "test".split(//u).length
+
+puts n
